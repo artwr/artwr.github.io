@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://artwr.github.io/sitemap.xml 
