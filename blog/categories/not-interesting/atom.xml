@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Arthur's notes on research]]></title>
-  <link href="http://artwr.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Not Interesting | Arthur's notes on research]]></title>
+  <link href="http://artwr.github.io/blog/categories/not-interesting/atom.xml" rel="self"/>
   <link href="http://artwr.github.io/"/>
   <updated>2014-05-02T23:50:14-07:00</updated>
   <id>http://artwr.github.io/</id>
