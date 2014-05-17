@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Unix | Arthur's notes on research]]></title>
   <link href="http://artwr.github.io/blog/categories/unix/atom.xml" rel="self"/>
   <link href="http://artwr.github.io/"/>
-  <updated>2014-05-16T18:31:33-07:00</updated>
+  <updated>2014-05-16T18:38:28-07:00</updated>
   <id>http://artwr.github.io/</id>
   <author>
     <name><![CDATA[Arthur Wiedmer]]></name>
@@ -18,9 +18,7 @@
     <link href="http://artwr.github.io/blog/2014/05/16/listing-files-in-an-archive-without-decompressing/"/>
     <updated>2014-05-16T18:05:11-07:00</updated>
     <id>http://artwr.github.io/blog/2014/05/16/listing-files-in-an-archive-without-decompressing</id>
-    <content type="html"><![CDATA[<h1>Listing files in an archive</h1>
-
-<h2>The problem</h2>
+    <content type="html"><![CDATA[<h2>The problem</h2>
 
 <p>My Macbook Pro has a fairly small hardrive, so I try to compress files that I do not need on an everyday basis. Mac OS X tends to decompress any archive file that you click on and I needed to check the content of an archive that resided on Dropbox.</p>
 
@@ -29,7 +27,13 @@
 <p>The archive I was looking at was a tar.gz archive. It turns out tar does this very well, see for instance <a href="http://www.tannerwilliamson.com/2009/10/16/view-gzip-tar-gz-archive-file-contents-without-extracing-files/">this link</a></p>
 
 <p><code>console
-$ tar tf nameofthearchive.tar.gz
+tar -tf nameofthearchive.tar.gz
+</code></p>
+
+<p>or without the dash (BSD-style options)</p>
+
+<p><code>console
+tar tf nameofthearchive.tar.gz
 </code></p>
 
 <p>If the archive is a zipfile, one can use the <strong>zipinfo</strong> command :</p>
