@@ -9,7 +9,7 @@
   <meta name="author" content="Arthur Wiedmer">
 
   
-  <meta name="description" content="Here We go ! I figured that since I am soon to be on the job market, it might be good to have a little more active presence online. Plus it would be &hellip;">
+  <meta name="description" content="Listing files in an archive The problem My Macbook Pro has a fairly small hardrive, so I try to compress files that I do not need on an everyday &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -54,6 +54,7 @@
 </form>
   
 <ul class="main-navigation">
+  <!-- <li><a href="/projects">Projects</a></li> -->
   <li><a href="/blog">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
   <li><a href="/about">About Me</a></li>
@@ -64,6 +65,71 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/05/16/listing-files-in-an-archive-without-decompressing/">Listing Files in an Archive Without Decompressing</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-05-16T18:05:11-07:00" pubdate data-updated="true">May 16<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h1>Listing files in an archive</h1>
+
+<h2>The problem</h2>
+
+<p>My Macbook Pro has a fairly small hardrive, so I try to compress files that I do not need on an everyday basis. Mac OS X tends to decompress any archive file that you click on and I needed to check the content of an archive that resided on Dropbox.</p>
+
+<h2>The solution</h2>
+
+<p>The archive I was looking at was a tar.gz archive. It turns out tar does this very well, see for instance <a href="http://www.tannerwilliamson.com/2009/10/16/view-gzip-tar-gz-archive-file-contents-without-extracing-files/">this link</a></p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='console'><span class='line'><span class="gp">$</span> tar tf nameofthearchive.tar.gz
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>If the archive is a zipfile, one can use the <strong>zipinfo</strong> command :</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='console'><span class='line'><span class="go">zipinfo nameofthearchive.zip</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>or <strong>unzip -l</strong> :</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='console'><span class='line'><span class="go">unzip -l nameofthearchive.zip</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -118,6 +184,10 @@
 <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/05/16/listing-files-in-an-archive-without-decompressing/">Listing Files in an Archive Without Decompressing</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2014/05/02/hello-world-again/">Hello World (Again)</a>
