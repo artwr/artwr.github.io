@@ -17,8 +17,10 @@ Department of Civil and Environmental Engineering
 University of California, Berkeley, CA 94720-1710 
 
 e-mail: arthur.wiedmer@polytechnique.org
-linkedin: [arthurwiedmer](http://linkedin/in/arthurwiedmer)\
-github: [artwr](http://github.com/artwr)\
+
+linkedin: [arthurwiedmer](http://linkedin/in/arthurwiedmer)
+
+github: [artwr](http://github.com/artwr)
 
 Research Interests
 ==================
@@ -30,7 +32,7 @@ Education
 =========
 
 **University of California – Berkeley**, Berkeley,
-California USA\
+California USA
 
 Ph.D. Candidate, Environmental engineering **Aug 2008 –
 Present**
@@ -44,7 +46,9 @@ Minors : Statistics, Public Health
 
 M.S., Environmental engineering **Aug 2007 – May 2008**
 
-**Ecole Polytechnique**, Palaiseau, France\
+
+
+**Ecole Polytechnique**, Palaiseau, France
 
 M.S., Engineering Science**Aug 2007 – May 2008**
 
@@ -55,28 +59,32 @@ Physics, Mathematics, Chemistry, Biology, Computer Science,
 Final Year Emphasis : Mathematical Models for Ecology, Population
 dynamics, Biodiversity, Energy and Resources
 
+
+
 Honors and Awards
 =================
 
 Excellence Award on the Mobile Century Project, California Center for
-Innovative Transportation, Berkeley, CA\
+Innovative Transportation, Berkeley, CA
 Ranked first among lieutenants, 3rd overall for the Certificat d’Etat
-Major for reservists, Paris, France\
+Major for reservists, Paris, France
 Médaille de la Défense Nationale, agrafe Corps Européen, German-French
-Brigade, Mülheim, Germany\
+Brigade, Mülheim, Germany
+
+
 
 Research Experience
 ===================
 
 **University of California – Berkeley**, Berkeley,
-California USA\
-*Graduate Student*\
+California USA
+*Graduate Student*
 Includes current Ph.D. research, Ph.D. and Masters level coursework and
 research projects.
 
 **Lawrence Berkeley National Laboratory**, Berkeley,
-California USA\
-*Graduate Student Research Assistant*\
+California USA
+*Graduate Student Research Assistant*
 As part of the [ASCEM
 project](http://esd.lbl.gov/research/projects/ascem/) data management
 team in the Computational Research Division, I used site and field
@@ -87,8 +95,8 @@ PostgreSQL instance serving as a backend for visualization in the
 browser.
 
 **Lawrence Berkeley National Laboratory**, Berkeley,
-California USA\
-*Guest Graduate Student Researcher*\
+California USA
+*Guest Graduate Student Researcher*
 Collected and extracted data from archives and interpreted them, leading
 to a better understanding of the contamination history and transport
 processes at the site of study (Savannah River Site). Based on this I
@@ -96,16 +104,16 @@ created visualizations (MATLAB, R) used as a support for conceptual
 understanding by research teams at the Earth Science Division.
 
 **California Center for Innovative Transportation**,
-Berkeley, CA\
-*Research Assistant/Junior Programmer*\
+Berkeley, CA
+*Research Assistant/Junior Programmer*
 Carried out several programming and visualization projects, ranging from
 creating animated movies from GPS logs using Google Earth, Python, and
 ffmpeg to using Java to compute statistics on travel times for the
 MITTENS system displaying messages on Changeable Message Signs in the
 Bay Area.
 
-**Supagro Montpellier**, Montpellier, France\
-*Research Assistant*\
+**Supagro Montpellier**, Montpellier, France
+*Research Assistant*
 Carried out measurement campaigns and lab experiments on the growth of
 freshwater algae in irrigation channels. Compiled a review of population
 dynamics models with applications to the environmental conditions.
@@ -114,35 +122,35 @@ Teaching Experience
 ===================
 
 **University of California – Berkeley**, Berkeley,
-California USA\
+California USA
 Classes were taught in the Civil and Environmental Engineering (CEE)
 Department unless noted otherwise. I was a Graduate Student Instructor
-(GSI), Berkeley’s title for Teaching Assistants.\
+(GSI), Berkeley’s title for Teaching Assistants.
 
-**Graduate Level**\
-Environmental Physical-Chemical Processes\
+**Graduate Level**
+Environmental Physical-Chemical Processes
 Led class discussions including lab demos, provided feedback on the
-content for the new version of the class, graded exams.\
+content for the new version of the class, graded exams.
 
-**Undergraduate Level**\
-Introduction to Hydrology\
+**Undergraduate Level**
+Introduction to Hydrology
 Led class discussions and additional workshops on Differential
 Equations, Statistics, MATLAB. Produced original materials for sections
 and exams. Conducted two full lectures on statistical modelling in
-Hydrology.\
+Hydrology.
 
-Introductory Physics, Physics department\
+Introductory Physics, Physics department
 Managed two discussion and lab sections per week and provided additional
-tutoring to students in difficulty.\
+tutoring to students in difficulty.
 
-Introduction to Hydrology\
+Introduction to Hydrology
 Led class discussions (30-50 students), provided original materials for
-review sessions\
+review sessions
 
-**Tutoring**\
+**Tutoring**
 Peer and undergrad tutoring at Berkeley on engineering and science
 fundamentals including : Differential Equations, Fluid Mechanics, Fate
-and Transport, Statistics, Linear Models, Uncertainty Quantification.\
+and Transport, Statistics, Linear Models, Uncertainty Quantification.
 
 Conference Proceedings
 ======================
@@ -214,4 +222,4 @@ Version control : git, svn, hg
 
 Other Tools : Quantum GIS, Google Earth
 
-Operating Systems: Unix/Linux, Windows, OS X.\
+Operating Systems: Unix/Linux, Windows, OS X.
