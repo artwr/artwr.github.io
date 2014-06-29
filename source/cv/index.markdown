@@ -8,7 +8,7 @@ sharing: true
 footer: true
 ---
 
-Below is my CV. A PDF version is available [here]({{ site.url }}/assets/mydoc.pdf)
+Below is my CV. A PDF version is available [here]({{ site.url }}/files/awiedmer-cv.pdf)
 
 Contact Information
 ===================
@@ -44,15 +44,15 @@ Advisor : James R. Hunt (Retired)
 
 Minors : Statistics, Public Health
 
-M.S., Environmental engineering **Aug 2007 – May 2008**
+M.S., Environmental engineering  **Aug 2007 – May 2008**
 
 
 
 **Ecole Polytechnique**, Palaiseau, France
 
-M.S., Engineering Science**Aug 2007 – May 2008**
+M.S., Engineering Science  **Aug 2007 – May 2008**
 
-B.S., Engineering Science**Aug 2004 – May 2007**
+B.S., Engineering Science  **Aug 2004 – May 2007**
 
 Physics, Mathematics, Chemistry, Biology, Computer Science,
 
@@ -64,11 +64,13 @@ dynamics, Biodiversity, Energy and Resources
 Honors and Awards
 =================
 
-Excellence Award on the Mobile Century Project, California Center for
-Innovative Transportation, Berkeley, CA
-Ranked first among lieutenants, 3rd overall for the Certificat d’Etat
+**2008** Excellence Award on the Mobile Century Project, California Center for
+Innovative Transportation, Berkeley, CA 
+
+**2006** Ranked first among lieutenants, 3rd overall for the Certificat d’Etat
 Major for reservists, Paris, France
-Médaille de la Défense Nationale, agrafe Corps Européen, German-French
+
+**2005** Médaille de la Défense Nationale, agrafe Corps Européen, German-French
 Brigade, Mülheim, Germany
 
 
