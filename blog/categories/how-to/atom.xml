@@ -4,7 +4,7 @@
   <title><![CDATA[Category: How To | Arthur's notes on research]]></title>
   <link href="http://artwr.github.io/blog/categories/how-to/atom.xml" rel="self"/>
   <link href="http://artwr.github.io/"/>
-  <updated>2014-05-16T18:38:28-07:00</updated>
+  <updated>2014-06-28T22:36:34-07:00</updated>
   <id>http://artwr.github.io/</id>
   <author>
     <name><![CDATA[Arthur Wiedmer]]></name>
@@ -24,13 +24,13 @@
 
 <h2>The solution</h2>
 
-<p>The archive I was looking at was a tar.gz archive. It turns out tar does this very well, see for instance <a href="http://www.tannerwilliamson.com/2009/10/16/view-gzip-tar-gz-archive-file-contents-without-extracing-files/">this link</a></p>
+<p>The archive I was looking at was a tar.gz archive. It turns out tar does this very well, which I found out through <a href="http://www.tannerwilliamson.com/2009/10/16/view-gzip-tar-gz-archive-file-contents-without-extracing-files/">this blog</a> :</p>
 
 <p><code>console
 tar -tf nameofthearchive.tar.gz
 </code></p>
 
-<p>or without the dash (BSD-style options)</p>
+<p>or without the dash (BSD-style options) :</p>
 
 <p><code>console
 tar tf nameofthearchive.tar.gz
@@ -43,10 +43,9 @@ zipinfo nameofthearchive.zip
 </code></p>
 
 <p>or <strong>unzip -l</strong> :
-``` console
-unzip -l nameofthearchive.zip</p>
-
-<p>```</p>
+<code>console
+unzip -l nameofthearchive.zip
+</code></p>
 ]]></content>
   </entry>
   
