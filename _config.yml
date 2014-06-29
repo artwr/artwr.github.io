@@ -41,6 +41,11 @@ rdiscount:
     - smart
 highlighter: pygments # default python pygments have been replaced by pygments.rb
 
+gems:
+#- jekyll-mentions
+#- jekyll-redirect-from
+- jekyll-sitemap
+
 paginate: 10          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
