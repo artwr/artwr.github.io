@@ -10,8 +10,8 @@ footer: true
 
 Below is my CV. A PDF version is available [here]({{ site.url }}/files/awiedmer-cv.pdf)
 
-Contact Information
-===================
+##Contact Information
+
 
 Department of Civil and Environmental Engineering 
 University of California, Berkeley, CA 94720-1710 
@@ -22,14 +22,12 @@ linkedin: [arthurwiedmer](http://linkedin/in/arthurwiedmer)
 
 github: [artwr](http://github.com/artwr)
 
-Research Interests
-==================
+##Research Interests
 
 Environmental data analysis and statistics, uncertainty quantification,
 spatial statistics, complexity
 
-Education
-=========
+##Education
 
 **University of California – Berkeley**, Berkeley,
 California USA
@@ -61,8 +59,8 @@ dynamics, Biodiversity, Energy and Resources
 
 
 
-Honors and Awards
-=================
+##Honors and Awards
+
 
 **2008** Excellence Award on the Mobile Century Project, California Center for
 Innovative Transportation, Berkeley, CA 
@@ -75,8 +73,7 @@ Brigade, Mülheim, Germany
 
 
 
-Research Experience
-===================
+##Research Experience
 
 **University of California – Berkeley**, Berkeley,
 California USA
@@ -120,8 +117,8 @@ Carried out measurement campaigns and lab experiments on the growth of
 freshwater algae in irrigation channels. Compiled a review of population
 dynamics models with applications to the environmental conditions.
 
-Teaching Experience
-===================
+##Teaching Experience
+
 
 **University of California – Berkeley**, Berkeley,
 California USA
@@ -154,8 +151,7 @@ Peer and undergrad tutoring at Berkeley on engineering and science
 fundamentals including : Differential Equations, Fluid Mechanics, Fate
 and Transport, Statistics, Linear Models, Uncertainty Quantification.
 
-Conference Proceedings
-======================
+##Conference Proceedings
 
 Agarwal, D., **A. Wiedmer**, B. Faybishenko, J. Hunt, G. Kushner, A.
 Romosan, T. Whiteside (2012). A Methodology for Management of
@@ -164,8 +160,7 @@ International Conference on Computational Methods in Water Resources
 (CMWR 2012). Retrieved from
 [http://cmwr2012.cee.illinois.edu/](http://cmwr2012.cee.illinois.edu/Papers/Special%20Sessions/Transforming%20Water%20Resource%20Management%20with%20Open-Source%20Community%20Tools/Agarwal.Deb.pdf)
 
-Conference Presentations
-========================
+##Conference Presentations
 
 **Wiedmer, A.**, J.R. Hunt, D. Agarwal and B. Faybishenko (2012),
 Data-driven modeling of radionuclide inventory at the Savannah River
@@ -173,16 +168,14 @@ Site F-area seepage basins and implications for long-term behavior,
 Abstract H34C-07 presented at 2012 Fall Meeting, AGU, San Francisco,
 California, 3-7 Dec.
 
-Conference Posters
-==================
+##Conference Posters
 
 **Wiedmer, A.**, J.R. Hunt, N. Spycher and M.E. Denham (2009), Long-term
 groundwater transport of radionuclides from seepage basins at the
 Savannah River Site, Abstract H31E-0832 presented at 2009 Fall Meeting,
 AGU, San Francisco, California, 14-18 Dec.
 
-Other talks and Posters
-=======================
+##Other talks and Posters
 
 **Wiedmer, A.**, Dealing with uncertainty, an introduction, presented in
 the Environmental Fluid Mechanics group meeting, 2014, Berkeley,
@@ -198,16 +191,14 @@ spatial interpolation problem in the presence of uncertainty, presented
 in the Environmental Fluid Mechanics group meeting, 2010, Berkeley,
 California.
 
-Technical Reports
-=================
+##Technical Reports
 
 **Wiedmer, A.** (2007), Étude de modèles de croissance des algues dans
 les canaux d’irrigation du Sud de la France (A study of algae growth in
 irrigation canals in Southern France), Technical Report, 68pp, 2007,
 Ecole Polytechnique, Palaiseau, France.
 
-Computing Skills
-================
+##Computing Skills
 
 Statistical/Scientific Computing Packages: R; MATLAB/GNU Octave/Scilab;
 Scipy Stack.
