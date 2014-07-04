@@ -17,45 +17,50 @@
   
   <url>
     <loc>http://artwr.github.io/blog/aboutthisblog.html</loc>
-    <lastmod>2014-06-30T11:57:54-07:00</lastmod>
+    <lastmod>2014-07-04T01:21:05-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://artwr.github.io/blog/</loc>
-    <lastmod>2014-06-30T11:57:54-07:00</lastmod>
+    <lastmod>2014-07-04T01:21:05-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://artwr.github.io/</loc>
-    <lastmod>2014-06-30T11:57:54-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
     <loc>http://artwr.github.io/blog/archives/</loc>
-    <lastmod>2014-06-30T11:57:54-07:00</lastmod>
+    <lastmod>2014-07-04T01:21:05-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://artwr.github.io/about/</loc>
-    <lastmod>2014-06-30T11:57:54-07:00</lastmod>
+    <lastmod>2014-07-04T01:21:05-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://artwr.github.io/cv/</loc>
-    <lastmod>2014-06-30T11:57:54-07:00</lastmod>
+    <lastmod>2014-07-04T01:21:05-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
+  
+  <url>
+    <loc>http://artwr.github.io/index.html</loc>
+    <lastmod>2014-07-04T01:06:1404461185Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://artwr.github.io/work.html</loc>
+    <lastmod>2014-07-04T01:16:1404461784Z</lastmod>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
