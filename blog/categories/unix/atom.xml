@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Unix | Arthur's notes on research]]></title>
   <link href="http://artwr.github.io/blog/categories/unix/atom.xml" rel="self"/>
   <link href="http://artwr.github.io/"/>
-  <updated>2014-10-23T17:15:50-07:00</updated>
+  <updated>2014-10-28T18:51:52-07:00</updated>
   <id>http://artwr.github.io/</id>
   <author>
     <name><![CDATA[Arthur Wiedmer]]></name>
@@ -26,21 +26,18 @@
 
 <p>The archive I was looking at was a tar.gz archive. It turns out tar does this very well, which I found out through <a href="http://www.tannerwilliamson.com/2009/10/16/view-gzip-tar-gz-archive-file-contents-without-extracing-files/">this blog</a> :</p>
 
-<p><code>console
-tar -tf nameofthearchive.tar.gz
-</code></p>
+<pre><code class="console">tar -tf nameofthearchive.tar.gz
+</code></pre>
 
 <p>or without the dash (BSD-style options) :</p>
 
-<p><code>console
-tar tf nameofthearchive.tar.gz
-</code></p>
+<pre><code class="console">tar tf nameofthearchive.tar.gz
+</code></pre>
 
 <p>If the archive is a zipfile, one can use the <strong>zipinfo</strong> command :</p>
 
-<p><code>console
-zipinfo nameofthearchive.zip
-</code></p>
+<pre><code class="console">zipinfo nameofthearchive.zip
+</code></pre>
 
 <p>or <strong>unzip -l</strong> :
 <code>console
